@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Financial Asset Trading Managment Platform.
 
 This project is about developing a financial asset trading managment platform.
 
